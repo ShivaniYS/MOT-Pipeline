@@ -1,0 +1,22 @@
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+pandas>=2.0.0
+ultralytics>=8.0.0
+filterpy>=1.4.5
+scipy>=1.10.0
+
+# Optional for performance
+onnxruntime-gpu>=1.15.0
+tensorrt>=8.5.0
+
+# Testing
+pytest>=7.4.0
+
+# Logging
+loguru>=0.7.0
+
+# Progress bars
+tqdm>=4.65.0
